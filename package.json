@@ -6,6 +6,7 @@
   "description": "WordPress Start Theme",
   "main": "index.js",
   "scripts": {
+    "postinstall": "bower install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kevin",
