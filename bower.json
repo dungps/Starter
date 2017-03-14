@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "description": "WordPress Start Theme",
+  "main": "index.js",
+  "authors": [
+    "Kevin"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendors/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}

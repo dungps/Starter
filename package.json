@@ -1,0 +1,23 @@
+{
+  "name": "starter",
+  "domain_name": "starter",
+  "func_prefix": "starter",
+  "version": "1.0.0",
+  "description": "WordPress Start Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-replace-task": "^0.11.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^1.0.1"
+  }
+}
