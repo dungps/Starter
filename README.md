@@ -1,0 +1,2 @@
+# Starter
+WordPress Starter Theme
